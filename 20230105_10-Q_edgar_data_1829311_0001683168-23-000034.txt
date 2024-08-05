@@ -1,0 +1,1552 @@
+<Header>
+<FileStats>
+    <FileName>20230105_10-Q_edgar_data_1829311_0001683168-23-000034.txt</FileName>
+    <GrossFileSize>2568479</GrossFileSize>
+    <NetFileSize>68202</NetFileSize>
+    <NonText_DocumentType_Chars>540873</NonText_DocumentType_Chars>
+    <HTML_Chars>566816</HTML_Chars>
+    <XBRL_Chars>580584</XBRL_Chars>
+    <XML_Chars>750986</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-23-000034.hdr.sgml : 20230105
+<ACCEPTANCE-DATETIME>20230105080029
+ACCESSION NUMBER:		0001683168-23-000034
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		50
+CONFORMED PERIOD OF REPORT:	20221130
+FILED AS OF DATE:		20230105
+DATE AS OF CHANGE:		20230105
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BITMINE IMMERSION TECHNOLOGIES, INC.
+		CENTRAL INDEX KEY:			0001829311
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				843986354
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56220
+		FILM NUMBER:		23509747
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2030 POWERS FERRY ROAD SE
+		STREET 2:		SUITE #212
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30339
+		BUSINESS PHONE:		404-816-8240
+
+	MAIL ADDRESS:	
+		STREET 1:		2030 POWERS FERRY ROAD SE
+		STREET 2:		SUITE #212
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30339
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Sandy Springs Holdings, Inc.
+		DATE OF NAME CHANGE:	20201021
+
+</SEC-Header>
+</Header>
+
+ 0001683168-23-000034.txt : 20230105
+
+10-Q
+ 1
+ bitmine_i10q-113022.htm
+ QUARTERLY REPORT
+
+Table of Contents 
+
+ UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the quarterly period ended 
+
+Or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from ______ to ______ 
+
+Commission file number: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of 
+ incorporation or organization) 
+
+(I.R.S. Employer 
+ Identification No.) 
+
+, , 
+
+(Address of principal executive offices) 
+ 
+ (Zip Code) 
+
+Registrant s telephone number, including area
+code 
+
+_________________________________________ 
+
+ (Former name, former address and former fiscal year,
+if changed since last report) 
+
+Securities registered pursuant to Section 12(b) of
+the Act: 
+
+Title of each class 
+ 
+ Trading Symbol(s) 
+ 
+ Name of exchange on which registered 
+ 
+ N/A 
+ 
+ N/A 
+ 
+ N/A 
+
+Indicate by check mark whether the registrant (1)
+has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes 
+
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the
+preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+ No 
+
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or emerging growth company. See the
+definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging
+growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark
+if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant is
+a shell company (as defined in Rule 12b-2 of the Act). Yes 
+
+The number of shares outstanding of the registrant s
+common stock as of January 5, 2023, was shares. 
+
+DOCUMENTS INCORPORATED BY REFERENCE NONE 
+
+TABLE OF CONTENTS 
+
+Part I FINANCIAL INFORMATION 
+
+Item 1. 
+ Financial Statements (unaudited) 
+ 4 
+
+Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 18 
+
+Item 3. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 23 
+
+Item 4. 
+ Controls and Procedures 
+ 23 
+
+Part II OTHER INFORMATION 
+
+Item 1. 
+ Legal Proceedings 
+ 24 
+
+Item 1A. 
+ Risk Factors 
+ 24 
+
+Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 25 
+
+Item 3. 
+ Defaults Upon Senior Securities 
+ 25 
+
+Item 4. 
+ Mine Safety Disclosures 
+ 25 
+
+Item 5. 
+ Other Information 
+ 25 
+
+Item 6. 
+ Exhibits 
+ 25 
+
+SIGNATURES 
+ 26 
+
+2 
+
+PART I - FINANCIAL INFORMATION 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+Information contained in this quarterly report on
+Form 10-Q contains forward-looking statements. All statements other than statements of historical facts contained in this
+Quarterly Report on Form 10-Q may be forward-looking statements. These forward-looking statements are contained principally in the section
+titled Management s Discussion and Analysis of Financial Condition and Results of Operations, and are generally identifiable
+by use of the words may, will, should, expect, anticipate, estimate, 
+ believe, intend or project or the negative of these words or other variations on these words
+or comparable terminology. The forward-looking statements herein represent our expectations, beliefs, plans, intentions, or strategies
+concerning future events, including, but not limited to: our future financial performance; the continuation of historical trends; the
+sufficiency of our resources in funding our operations; our intention to engage in mergers and acquisitions; and our liquidity and capital
+needs. Our forward-looking statements are based on assumptions that may be incorrect, and there can be no assurance that any projections
+or other expectations included in any forward-looking statements will come to pass. Moreover, our forward-looking statements are subject
+to various known and unknown risks, uncertainties, and other factors that may cause our actual results, performance, or achievements to
+be materially different from future results, performance, or achievements expressed or implied by any forward-looking statements. These
+risks, uncertainties, and other factors include but are not limited to: 
+
+the risks of limited management, labor, and financial resources; 
+
+our ability to establish and maintain adequate internal controls; 
+
+our ability to develop and maintain a market in our securities; 
+
+our ability to obtain financing, if and when needed, on acceptable terms; 
+
+our projected financial position and estimated cash burn rate; 
+
+the success of our digital currency mining and hosting activities; 
+
+the volatile and unpredictable cycles in the emerging and evolving industries in which we operate, increasing difficulty rates for bitcoin mining; 
+
+the continued trading of digital currencies, and in particular Bitcoin, at prices that make it profitable to mine new digital currencies; 
+
+the availability of cost-efficient energy supplies available to mine digital currencies; 
+
+bitcoin halving; 
+
+new or additional governmental regulation; 
+
+the anticipated delivery dates of new hosting containers and miners; 
+
+the ability to successfully develop and deploy new hosting facilities; 
+
+the expectations of future revenue growth may not be realized; 
+
+ongoing demand for the Company's services; 
+
+the impact of global pandemics (including COVID-19) on logistics and shipping and the demand for our products and services; and 
+
+other risks described in the Company's prior press releases and in its filings with the Securities and Exchange Commission (SEC), including under the heading Risk Factors in the Company's Annual Report on Form 10-K and any subsequent filings with the SEC. 
+
+You should read this Quarterly Report on Form 10-Q
+and the documents that we reference in this Quarterly Report on Form 10-Q and have filed as exhibits to this Quarterly Report on Form
+10-Q with the understanding that our actual future results, performance and achievements may be materially different from what we expect.
+We qualify all of our forward-looking statements by these cautionary statements. These forward-looking statements speak only as of the
+date of this Quarterly Report on Form 10-Q. Except as required by applicable law, we do not plan to publicly update or revise any forward-looking
+statements contained in this Quarterly Report on Form 10-Q, whether as a result of any new information, future events or otherwise. 
+
+As used in this quarterly report on Form 10-Q, we ,
+ our , us and the Company refer to Bitmine Immersion Technologies, Inc., a Delaware corporation
+unless the context requires otherwise. 
+
+3 
+
+Item 1. Financial Statements. 
+
+Index to Financial Statements 
+
+Page 
+ 
+ CONDENSED FINANCIAL STATEMENTS: 
+
+Balance Sheets, November 30, 2022 (unaudited), and August 31, 2022 
+ 5 
+
+Unaudited Statements of Operations, for the Three Ended November 30, 2022, and November 30, 2021 
+ 6 
+
+Unaudited Statements of Changes in Stockholders Equity, for the T hree Months Ended November 30, 2022, and November 30, 2021 
+ 7 
+
+Unaudited Statements of Cash Flows, for the Three Months, Ended November 30, 2022, and November 30, 2021 
+ 8 
+
+Notes to the Unaudited Interim Financial Statements 
+ 9 
+
+4 
+
+Bitmine
+Immersion Technologies, Inc. 
+
+ Balance Sheets 
+
+ (Unaudited) 
+
+November 30, 
+ August 31, 
+
+2022 
+ 2022 
+
+ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+Prepaid expenses 
+
+Notes receivable - short term 
+
+Total current assets 
+
+Cryptocurrency 
+
+Notes receivable - long term 
+
+Investment in joint venture 
+
+Fixed assets, net 
+
+Fixed assets - not in service 
+
+Total assets 
+
+LIABILITIES AND STOCKHOLDERS' EQUITY 
+
+Current liabilities: 
+
+Accounts payable 
+
+Accrued interest - related party 
+
+Loans payable-related party 
+
+Deferred revenue - net 
+
+Total current liabilities 
+
+Deferred revenue long term -net 
+
+Total liabilities 
+
+Commitments and contingencies 
+
+Stockholders' Equity: 
+
+Series A Preferred Stock, par value, shares authorized, and shares issued and outstanding as of November 30, 2022 and August 31, 2022, respectively 
+
+Common stock, par value, shares authorized; and shares issued and outstanding as of November 30, 2022 and August 31, 2022 respectively 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Total stockholders' equity 
+
+Total liabilities and equity 
+
+The accompanying notes are an integral part of the unaudited financial statements. 
+
+5 
+
+Bitmine
+Immersion Technologies, Inc. 
+
+ Statements of Operations 
+
+ (Unaudited) 
+
+Three months 
+ Three months 
+
+ended 
+ ended 
+
+November 30, 
+ November 30, 
+
+2022 
+ 2021 
+ 
+ Revenue from the sale of mining equipment 
+
+Revenue from self-mining 
+
+Total revenue 
+
+Cost of sales mining equipment 
+
+Cost of sales mining 
+
+Gross (loss) 
+
+Operating expenses: 
+
+General and administrative expenses 
+
+Professional fees 
+
+Related party compensation 
+
+Impairment of fixed assets 
+
+Impairment of cryptocurrency 
+
+Total operating expenses 
+
+Loss from operations 
+
+Other income (expense) 
+
+Interest expense 
+
+Other income 
+
+Interest income 
+
+Other income (expense), net 
+
+Net loss 
+
+Basic and diluted (loss) per common share 
+
+Weighted-average number of common shares outstanding: 
+
+Basic and diluted 
+
+The accompanying notes are an integral part of the unaudited financial statements. 
+
+6 
+
+Bitmine
+Immersion Technologies, Inc. 
+
+ Statements of Changes
+in Stockholders Equity 
+
+ (Unaudited) 
+
+Additional 
+ 
+ Total 
+
+Series
+ A Preferred 
+ Common
+ Stock 
+ Paid-in 
+ Accumulated 
+ Stockholders' 
+
+Shares 
+ Value 
+ Shares 
+ Value 
+ Capital 
+ Deficit 
+ Equity 
+ 
+ Balance, August 31,
+ 2021 
+
+Common stock issued for services 
+
+Net loss 
+
+Balance, November 30, 2021 
+
+# 
+
+Additional 
+ 
+ Total 
+
+Series
+ A Preferred 
+ Common
+ Stock 
+ Paid-in 
+ Accumulated 
+ Stockholders' 
+
+Shares 
+ Value 
+ Shares 
+ Value 
+ Capital 
+ Deficit 
+ Equity 
+ 
+ Balance, August 31,
+ 2022 
+
+Common stock issued for services - related party 
+
+Common shares issued for services 
+
+Net loss 
+
+Balance, November 30, 2022 
+
+The accompanying notes are an integral part of the
+unaudited financial statements. 
+
+7 
+
+Bitmine
+Immersion Technologies, Inc. 
+
+ Statements of Cash Flows 
+
+ (Unaudited) 
+
+Three months 
+ Three months 
+
+ended 
+ ended 
+
+November 30, 
+ November 30, 
+
+2022 
+ 2021 
+ 
+ Cash flows from operating activities 
+
+Net loss 
+
+Stock based compensation 
+
+Depreciation 
+
+Change in balance sheet accounts 
+
+Notes receivable 
+
+Impairment of fixed assets 
+
+Impairment of cryptocurrency 
+
+Cryptocurrencies 
+
+Accounts payable 
+
+Deferred revenue 
+
+Accrued interest related party 
+
+Accrued liabilities - related parties 
+
+Net cash (used in) operating activities 
+
+Cash flows from investing activities 
+
+Investment in joint venture 
+
+Sale of fixed assets 
+
+Purchase of fixed assets 
+
+Net cash provided by (used in) investing activities 
+
+Cash flows from financing activities: 
+
+Related party loans 
+
+Net cash provided by financing activities 
+
+Net (decrease) in cash and cash equivalents 
+
+Cash and cash equivalents at beginning of period 
+
+Cash and cash equivalents at end of period 
+
+Supplemental disclosure of cash flow information: 
+
+Cash paid for interest 
+
+Cash paid for income taxes 
+
+The accompanying notes are an integral part of the
+unaudited financial statements. 
+
+8 
+
+BITMINE IMMERSION TECHNOLOGIES, INC. 
+
+ NOTES TO UNAUDITED FINANCIAL STATEMENTS 
+
+, with all fractional shares rounded up to the nearest whole share, and immediately
+after the completion of the reverse split, effected a 200 for 1 forward stock split. The net effect of the splits was a 1 for 200 reverse
+split of the Company s common shares. The stock splits were effective April 27, 2021. No fractional shares of common stock were
+issued connection with the Reverse Split. If, as a result of the Reverse Split, a shareholder would have otherwise held a fractional share,
+the shareholder received, instead of the issuance of such fractional share, one whole share of common stock. 
+
+The Company s financial statements in this Report
+for the periods ended November 30, 2022, and August 31, 2022, and all references thereto have been retroactively adjusted to reflect the
+split unless specifically stated otherwise. 
+
+Providing computing
+power to solve complex cryptographic algorithms in support of the Bitcoin blockchain (in a process known as solving a block is an output of the Company s ordinary activities. The provision of providing such computing power is the only performance obligation
+in the Company s contracts with mining pool operators. The transaction consideration the Company receives, if any, is noncash consideration,
+which the Company measures at fair value on the date received, which is not materially different than the fair value at contract inception
+or the time the Company has earned the award from the pools. The consideration is all variable. Because it is not probable that a significant
+reversal of cumulative revenue will not occur, the consideration is constrained until the mining pool operator successfully places a block
+(by being the first to solve an algorithm) and the Company receives confirmation of the consideration it will receive, at which time revenue
+is recognized. There is no significant financing component in these transactions. 
+
+Fair value of
+the cryptocurrency award received is determined using the market rate of the related cryptocurrency at the time of receipt. 
+
+in revenues from the sale of mining
+equipment. 
+
+in revenues from mining cryptocurrency. 
+
+and , respectively. 
+
+due to a reduction in the quoted price of
+cryptocurrency. Subsequent reversal of impairment losses, if the price of cryptocurrency increases, is not permitted. 
+
+Cryptocurrency earned by the Company through its mining
+activities are included within operating activities on the accompanying consolidated statements of cash flows. The sales of digital currencies
+are included within investing activities in the accompanying consolidated statements of cash flows and any realized gains or losses from
+such sales are included in other income (expense) in the consolidated statements of operations and comprehensive income (loss). The Company
+accounts for its gains or losses in accordance with the first in first out FIFO method of accounting. 
+
+The Company
+holds its cryptocurrencies in a cold storage wallet account in its name, and not with a custodian or other intermediary. The Company has
+an account with Gemini Trust Company, LLC, which is a qualified custodian regulated by the New York Department of Financial Services.
+Currently, the Company does not store cryptocurrencies at Gemini, and only transfers cryptocurrencies that it desires to liquidate to
+its account at Gemini immediately prior to the liquidation. The Company uses Gemini s multi-signature feature for account access. 
+
+Machinery and equipment 
+
+- 
+
+Office and computer equipment 
+
+No depreciation is recorded on an asset until it is
+placed in service. Due to the nature of the equipment, it can only be placed in service when the hosting site is properly configured to
+turn on the machines. As of November 30, 2022, and August 31, 2022, the Company had and , respectively, of fixed
+assets not in service. During the three months ended November 30, 20222 the Company performed an analysis of the carrying cost of its
+mining equipment compared to the current market price for the same equipment. As a result, the Company determined that its fixed assets
+had been impaired by an amount of . This amount was recorded as an impairment of fixed assets on its statements
+of operations for the three months ended November 30, 2022 
+
+We adopted ASC 842 on July 16, 2020. The adoption
+of this guidance did not have any impact on our financial statements. 
+
+In March 2022, the SEC staff released Staff
+Accounting Bulletin No. 121 SAB 121 ), which requires entities that hold crypto assets on behalf of platform users to
+recognize a liability to reflect the entity s obligation to safeguard the crypto assets held for its platform users, whether
+directly or through an agent or another third party acting on its behalf, along with a corresponding safeguarding asset. Both the
+liability and corresponding safeguarding asset shall be measured at fair value. SAB 121 also requires disclosure of the nature
+and amount of crypto assets being safeguarded, how the fair value is determined, an entity s accounting policy for
+safeguarding liabilities and corresponding safeguarding assets, and may require disclosure of other information about risks and
+uncertainties arising from the entity s safeguarding activities. The Company is not in the business of holding its
+customer s crypto assets for safekeeping. For crypto assets that are not maintained on our platform and for which the Company
+does not maintain a private key or the ability to recover a customer s private key, these balances are not recorded, as there
+is no related safeguarding obligation in accordance with SAB 121. This guidance is effective from the first interim period
+after June 15, 2022 and should be applied retrospectively. We adopted SAB 121 during the three months ended August 31, 2022,
+and it did not have any impact on our financial statements. 
+
+Revenue from self-mining 
+
+Total revenue 
+
+Equipment not in service 
+
+Total fixed assets 
+
+For the three months ended November 30, 2022 and November 30, 2021,
+the Company recorded and - -, respectively in depreciation expense. 
+
+, bearing interest at per annum, payable in 25 equal monthly payments of 40,950 commencing on September 30, 2022 
+
+Note receivable in original principal amount of , bearing interest at per annum, payable in 41 equal monthly payments of 31,204 commencing December 30, 2022 
+
+Total 
+
+Less: Non-current portion 
+
+Notes receivable short-term 
+
+As of November 30, 2022 and August 31, 2022 the balance
+of notes receivable was and , respectively. During the three months ended November 30, 2022, the Company recorded in interest income on the 910,000 note. 
+
+at the request of the Company
+to finance the purchase of equipment necessary for the operation of the Company s business, and related working capital. Loans
+under the 2022 LOC Agreement accrue interest at twelve percent per annum, compounded on a 30/360 monthly basis until the loans
+have been repaid in full. The Company has the right to submit draw requests under the 2022 LOC Agreement until April 15, 2023. Each
+draw request is subject to the approval of IDI in its sole discretion. The amount drawn, plus all accrued interest therein, is
+repayable in full on December 1, 2023. As of the amount of principal and interest due to related party was and ,
+respectively, as compared to - - and - - at August 31, 2022. 
+
+shares
+of Common Stock with a par value of per share, and shares of preferred stock with a par value of per share.
+As of November 30, 2022, and August 31, 2022, there were and shares of common stock outstanding, respectively. As
+of November 30, 2022 and August 31, 2022, our board of directors had authorized the issuance of one series of preferred stock, the Series
+A Convertible Preferred Stock (the Series A Preferred ), for shares, of which had been issued. 
+
+Issuance of Shares 
+
+During the three months ended November 30, 2022, the
+Company issued the following shares: 
+
+shares were issued to an officer pursuant to the terms of his employment contract, which entitle the officer to a quarterly bonus payable in shares of common stock. The shares were valued at , or 0.44 per share, based on the value indicated by the Company s recently
+completed Unit Offering. The bonus shares vest on January 15, 2027 if the officer is still employed with us on that date, and are amortized from the date of issuance to January 15, 2027. 
+
+shares to a third party for investor relations services. The
+ shares were valued at 44,000 , or 0.44 per share, based on the value indicated by the Company s recently completed Unit
+ Offering. 
+
+The Company estimates the fair value of stock-based
+compensation based on the grant-date fair value of the award (with limited exceptions). That cost will be recognized over the period during
+which an employee is required to provide service in exchange for the award- the requisite service period (usually the vesting period).
+The Company attributes compensation to expense using the straight-line method. Since the Company s common stock is thinly traded,
+the Company utilizes the value, or an estimate thereof, paid by third parties for common stock in arms-length transactions with the Company. 
+
+Warrants 
+
+As of November 30, 2022, and August 31, 2022, the
+Company had the following warrants outstanding: 
+
+Class B Warrants 
+
+Class C-1 Warrants 
+
+Class C-2 Warrants 
+
+Class C-3 Warrants 
+
+Total 
+
+17 
+
+Item 2. Management s Discussion and Analysis
+of Financial Condition and Results of Operations. 
+
+The following discussion and analysis of the results
+of operations and financial condition of the Company for the quarters ended November 30, 2022, and 2021, should be read in conjunction
+with the other sections of this Quarterly Report, including the Financial Statements and notes thereto of the Company included in this
+Quarterly Report. The various sections of this discussion contain forward-looking statements, all of which are based on our current expectations
+and could be affected by the uncertainties and risk factors described throughout this Quarterly Report as well as other matters over which
+we have no control. See Cautionary Note Regarding Forward-Looking Statements. Our actual results may differ materially.
+The Company does not undertake any obligation to update forward-looking statements to reflect events or circumstances occurring after
+the date of this Quarterly Report. 
+
+Overview 
+
+Since July 2021, our business has been as a blockchain
+technology company that is building out industrial scale digital asset mining, equipment sales and hosting operations. The Company s
+primary business is hosting third-party equipment used in mining of digital asset coins and tokens, specifically Bitcoin, as well as self-mining
+for its own account. Our state-of-the-art facilities will be specifically designed and constructed for housing advanced mining equipment.
+Our data centers will provide power, racks, proprietary thermodynamic management (heat dissipation and airflow management), redundant
+connectivity, 24/7 security, as well as software which provide infrastructure management and custom firmware that boost performance and
+energy efficiency. 
+
+We plan to operate our data centers using immersion
+cooling technology. Immersion cooling is the process of submerging computer components (or full servers) in a thermally, but not electrically,
+conductive liquid (dielectric coolant) allowing higher heat transfer performance than air and many other benefits. Immersion cooling can
+be up to 95 more efficient than standard air cooling, producing an estimated PUE (power usage effectiveness) of 1.05. This cooler environment
+has been shown to extend machine lives by 30 or longer. 
+
+We initially decided to locate our initial
+facilities in Trinidad, because it has some of the cheapest electricity in the world due to its abundant supplies of oil and gas and
+because some of our technical staff is located there. We have entered into an agreement with Telecommunications Services of Trinidad
+ Tobago Limited TSTT ), the largest and oldest telecom company in Trinidad, to co-locate up to 125 800 kw
+containers for hosting digital asset miners. TSTT has up to 93 potential locations for co-location of our containers. Under the
+agreement, we have the option, but not obligation, to co-locate containers at our own pace. We pay a fixed amount per container,
+plus the actual electricity costs incurred by our containers in the amount billed to TSTT by the local utility without any markup.
+The agreement provides that our hosting containers will be billed for electricity usage at the local utility s standard rates,
+which is the greater of 3.5 cents per kwh or 75 of the declared reserve capacity, which is equal to the customer s highest
+expected monthly kilovolt-ampere demand at 7.40. The term of the agreement expires on October 14, 2031. We have the right to
+terminate our agreement with TSTT at any time that the price for electricity consumption exceeds 0.05 per kwh. 
+
+Until our permanent hosting facilities are operational,
+we are temporarily leasing space for a small number of ASIC computers with a co-host. We intend to move all of our currently owned and
+customer owned miners to our new TSTT hosting facilities once they are operational. 
+
+In October 2022, we completed the installation of
+initial hosting containers under our agreement with TSTT. However, prior to commencing operations, TSTT advised us that the utility had
+refused to honor its existing agreement with TSTT with respect to electricity supplied to our pilot hosting site, and instead indicated
+that the rate would be approximately 0.09 per kwh. TSTT has informed us that it does not believe that its contract with the local utility
+entitles it to vary the rate it charges for the use of electricity and has protested the decision. At this time, we are unable to predict
+how this dispute between TSTT and the utility will be resolved, what form any resolution may take or how long any resolution may take.
+Accordingly, we are delaying the installation of additional containers in Trinidad until this dispute is resolved. Until the dispute between
+TSTT and the utility is resolved, we intend to focus our efforts on purchasing or developing hosting locations in the United States and
+Canada, either directly or in joint ventures with other industry participants. 
+
+In light of the recent developments in Trinidad, we
+are focusing our efforts in the near term on developing hosting locations in the United States and Canada. We are exploring situations
+where medium to long-term power agreements may be available at affordable prices, whether using traditional power sources such as coal
+or natural gas, as well as environmentally friendly sources such as hydroelectric, wind and solar-backed projects, which might allow us
+to generate collateral revenue from the sale of excess power to the local utility grid and from the generation of saleable carbon credits. 
+
+18 
+
+We recently entered into a joint arrangement whereby
+we contributed one immersion contain and six transformers, and sold four immersion containers, to a joint venture with a third party that
+has procured a location and a power purchase agreement in Pecos, Texas. 
+
+Our digital asset mining operation is focused on the
+generation of digital assets by solving complex cryptographic algorithms to validate transactions on specific digital asset network blockchains,
+which is commonly referred to as mining. Mining requires the use of specialized computers equipped with application-specific
+integrated circuit (ASIC) chips (known as miners to solve complex cryptographic algorithms in support of the Bitcoin blockchain
+(in a process known as solving a block in exchange for digital asset rewards (primarily bitcoin). Whether we are hosting
+our client s computers or mining for our own account with our own computers, the miners participate in mining pools 
+organized by mining pool operators in which we or our clients share mining power (known as hash rate with
+the hash rate generated by other miners participating in the pool to earn digital asset rewards. The mining pool operator provides a service
+that coordinates the computing power of the independent mining enterprises participating in the mining pool. Fees are paid to the mining
+pool operator to cover the costs of maintaining the pool. The pool uses software that coordinates the pool members mining power,
+identifies new block rewards, records how much hash rate each participant contributes to the pool, and assigns digital asset rewards earned
+by the pool among its participants in proportion to the hash rate each participant contributed to the pool in connection with solving
+a block. 
+
+Our digital asset self-mining activity competes with
+a myriad of mining operations throughout the world to complete new blocks in the blockchain and earn the reward in the form of an established
+unit of a digital asset. Revenue from digital asset mining and hosting third party digital asset miners are impacted by volatility in
+bitcoin prices, as well as increases in the Bitcoin blockchain s network hash rate resulting from the growth in the overall quantity
+and quality of miners working to solve blocks on the Bitcoin blockchain and the difficulty index associated with the secure hashing algorithm
+employed in solving the blocks. Gross profits from digital asset mining are primarily impacted by the cost of electricity to operate
+the miners and to a lesser extent by other operating costs. While we expect to sell or exchange a portion of the digital assets we mine
+to fund our growth strategies or for general corporate purposes, we may hold our digital assets as investments in anticipation of continued
+adoption of digital assets as a store of value and a more efficient medium of exchange than traditional fiat currencies. 
+
+As the demand for digital assets increases and digital
+assets become more widely accepted, there is an increasing demand for professional-grade, scalable infrastructure to support growth of
+the blockchain ecosystem. We expect to continually evaluate the performance of our data centers, including our ability to access additional
+megawatts of electric power and to expand our total self-mining and customer and related party hosting hash rates. 
+
+We also generate revenues from the advantageous purchase and sale of equipment
+used for digital asset mining and hosting. We have relationships with some suppliers that enable us to acquire highly desired equipment
+at attractive prices, which we plan to resell to third parties. In most cases, resales of digital asset mining equipment would be to our
+hosting customers, which have the dual benefit of generating short-term gross profits from the equipment sale as well as growing the customer
+base of our hosting business. We have recently resold some hosting equipment in Trinidad to third parties that we determined would not
+be need in the short-term due to the dispute between TSTT and the local utility described above. 
+
+The primary factors that will impact future hosting
+revenues include: (i) the price of bitcoin, since hosting revenues are primarily a percentage of bitcoin mined by clients; (ii) the completion
+of operational hosting facilities, as potential hosting clients have been reluctant to sign contracts prior to the date the Company has
+a fully operational hosting facility; and (iii) the availability of attractive electricity prices, since power usage is the primary marginal
+cost for any mining operation. Our hosting revenues will also be impacted by the resolution of the dispute between TSTT and the local
+utility regarding the electricity rate that will be charged our co-location facilities in Trinidad, as well as by the timing of the resolution. 
+
+The primary factors that will impact proprietary mining
+revenues include: (i) the price of bitcoin; (ii) the completion of operational facilities to provide us with a cost-effective facility
+to operate in; (iii) the availability of attractive electricity prices, since power usage is the primary marginal cost for any mining
+operation; and (iv) the availability of mining equipment suitable for the Company s immersion hosting environment at attractive
+prices and available capacity in the Company s hosting facilities. Our proprietary mining activities will also be impacted by the
+resolution of the dispute between TSTT and the local utility regarding the electricity rate that will be charged our co-location facilities
+in Trinidad, as well as by the timing of the resolution. 
+
+19 
+
+Revenues from cryptocurrency mining, whether derived
+from hosting clients or from proprietary mining, are impacted significantly by volatility in Bitcoin prices, as well as increases in the
+Bitcoin blockchain s network hash rate resulting from the growth in the overall quantity and quality of miners working to solve
+blocks on the Bitcoin blockchain and the difficulty index associated with the secure hashing algorithm employed in solving the blocks.
+Below are changes in key metrics effecting the profitability of mining Bitcoin during the quarter ended November 30, 2022: 
+
+As of November 30, 2022 
+ 
+ As of August 31, 2022 
+ 
+ Percent Change 
+
+Network hash rate 
+ 253.48 EH/s 
+ 
+ 219.86 EH/s 
+ 
+ 15.2915 
+ 
+ Difficulty index 
+ 36.95 trillion 
+ 
+ 30.98 trillion 
+ 
+ 19.2834 
+ 
+ Bitcoin market price 
+ 17,168.57 
+ 
+ 20,049.76 
+ 
+ -14.3702 
+
+The primary factors that will impact resales of mining
+equipment include the availability of equipment at attractive prices and the number of participants willing to enter the mining business
+or expand their existing operations, which is highly correlated to the margin from mining, as determined by the market price of bitcoin
+and prevailing energy costs. Also, our resales of mining equipment will be impacted by the existence of hosting capacity with attractive
+electricity rates in our hosting operations. 
+
+Results of Operations 
+
+Comparison of Results of Operations for the Three Months Ended November
+30, 2022, and 2021. 
+
+Revenues 
+
+During the three months ended November 22, 2022, the
+Company generated 101,716 in revenue, compared to -0- revenue in the three months ended November 22, 2021. 
+
+During the three months ended November 30, 2022,
+the Company generated 28,916 in Bitcoin revenue from self-mining digital assets, compared to -0- revenue in the three months ended November
+22, 2021. The Company currently owns 362 miners that it plans to use for proprietary mining, the deployment of which will occur when its
+immersion hosting environment is operational. In addition, the Company is seeing good opportunities to acquire mining equipment at attractive
+prices, which should create opportunities for additional revenues. Mining revenues in the three months ended November 30, 2022 were adversely
+impacted by delays in opening the Company s first hosting facility in Trinidad. The facility was completed in October 2022, but
+its opening has been delayed facility pending resolution of a dispute between our co-location partner in Trinidad and the electricity
+company in Trinidad over the price that will be charged for electricity provided to our hosting operations. At this time, we do not have
+any information on when the dispute will be resolved and in what manner. As a consequence, we are currently focusing our efforts on the
+development of hosting centers in the United States and Canada, both directly and in joint ventures with third parties. Our hosting revenue
+was derived from the deployment of a minority of our miners at a temporary facility in Trinidad. 
+
+During the three months ended November 22, 2022,
+the Company generated 72,800 in revenue from equipment sales, compared to -0- revenue in the three months ended November 22, 2021. During
+the three months ended November 22, 2022, the Company sold four hosting containers to a joint venture that is constructing a hosting facility
+in Texas for 1,200,000. The purchase price is payable pursuant to a promissory note bearing interest at 5 per annum, and is paid by
+41 equal monthly payments of 31,204 commencing December 30, 2022. Under the guidelines of ASC 606, the Company reports revenue from equipment
+sales which are vendor financed by the Company under the installment sale method. 
+
+The Company also expects to generate additional revenues from the resale
+of certain hosting equipment, primarily containers and transformers. 
+
+The Company did not have any revenues from hosting
+during the three months ended November 22, 2022 or 2021. The lack of hosting revenues in the three months ended November 20, 2022 was
+because of the Company s decision to cease hosting third party miners, and concentrate on self-mining, during the quarter. In the
+current market environment, the price of ASIC miners has fallen to the point that we believe self-mining is more profitable than hosting
+third party miners. During the quarter, the Company reached an agreement to terminate its only hosting client, and repurchased the miners
+which it had previously sold to the hosting client. The lack of hosting revenues in the three months ended November 20, 2021 was because
+the Company had not commenced operations at that time. 
+
+20 
+
+The primary factors that will impact our revenues
+in subsequent periods are described in the Overview above. 
+
+Cost of Sales 
+
+Cost of sales were 118,476 in the three months ended
+November 30, 2022, compared to -0- in the three months ended November 30, 2021, when there was no revenue. 
+
+Cost of sales related to mining was 75,395 in
+the three months ended November 30, 2022, compared to -0- in the three months ended November 30, 2021, when there was no revenue from
+mining. Cost of sales normally includes electricity, utilities, facilities costs, depreciation and supplies. For the three months ended
+November 30, 2022, major components of cost of sales include rent to house mining and hosting equipment in temporary facilities, electricity,
+and supplies. The Company believes that cost of sales related to mining as a percentage of revenues were greater in the three months ended
+November 30, 2022 than what it expects to incur in future periods, as cost of sales in the most recent period were inflated by costs associated
+with maintaining temporary hosting facilities while our permanent hosting facility was being completed, and costs from the completion
+of our new hosting facility that we determined not to capitalize. Furthermore, our temporary hosting facilities carried electricity costs
+that were materially higher than the electricity costs that we expect to incur in our permanent facilities. 
+
+Cost of sales related to sales of mining equipment
+was 43,080 for the three months ended November 30, 2022, compared to -0- in the three months ended November 30, 2021 when there was
+no revenue from equipment sales. Cost of sales consists of the purchase price of equipment sold, plus shipping and value added tax on
+the equipment. 
+
+Since we are in the early stages of setting up our
+infrastructure to generate higher levels of revenues, we expect that our cost of sales to generate revenue from hosting or mining for
+our own account will exceed the revenue we generate until we achieve sufficient economies of scale by deploying more miners. In future
+periods, the largest component of our cost of sales from mining will consist of electricity costs. 
+
+Operating Expenses 
+
+During the three months ended November 30, 2022, the
+Company incurred 491,921 in operating expenses, compared to 664,043 in operating expenses during the three months ended November 30,
+2021. Major components of operating expenses for the 2022 period as compared to the 2021 period were: 
+
+Three months ended 
+ Three months ended 
+ Percentage 
+
+November 30, 2022 
+ November 30, 2021 
+ Change 
+
+General and administrative expenses 
+ 77,532 
+ 28,538 
+ 172 
+ 
+ Professional fees 
+ 161,738 
+ 623,505 
+ (74 
+ 
+ Related party compensation 
+ 109,393 
+ 12,000 
+ 912 
+ 
+ Impairment of fixed assets 
+ 122,950 
+ 
+ N/A 
+ 
+ Impairment of cryptocurrency 
+ 3,523 
+ 
+ N/A 
+ 
+ Total operating expenses 
+ 475,136 
+ 664,043 
+ (28 
+
+The lower level of operating expenses in the 2022
+period as compared to the 2021 period is primarily attributable to reduced professional fees in 2022 as compared to 2021. Included in
+operating expenses in the three months ended November 30, 2022 was 75,429 in non-cash expenses due to the issuance of common stock for
+professional services and to related parties as compensation, as compared to 550,000 in the three months ended November 30, 2021. We
+also incurred 122,950 in impairment expenses in the three months ended November 30, 2022 to write-down certain mining equipment to current
+market prices. Additionally, we incurred 3,523 in impairment expenses on our cryptocurrency holdings due to the decline in the price
+of Bitcoin we are holding. The Company expects that operating expenses will trend materially higher in future periods as the Company begins
+paying regular compensation to existing officers and directors, hires additional employees, and incurs other costs associated with the
+commencement of operations. 
+
+21 
+
+Other Income (Expense) 
+
+During the three months ended November 30, 2022,
+the Company incurred 21,230 in other income, as compared to 44,713) of other expense in the three months ended November 30, 2021. The
+significant change in other income (expense) was mainly attributable to lower interest expense in the three months ended November 30,
+2022 of 4,808), as compared to 44,713) in the three months ended November 30, 2021, which was due to lower outstanding loan balances
+during the 2022 period. In addition, the Company recorded other income of 16,939 attributable to the termination of a hosting contract,
+and interest income of 9,099 in te three months ended November 30, 2022, as compared to -0- and -0- in the three months ended November
+30, 2021. The Company expect interest income to trend higher as it finances the sale of more equipment. 
+
+Net (Loss) 
+
+As a result of the foregoing, during the three months
+ended November 30, 2022, the Company incurred a net loss of 470,665), or 0.01) per share, as compared to a net loss of 708,756)
+or (0.02) per share during the three months ended November 30, 2021. The decrease in the Company s net loss in the three months
+ended November 30, 2022, compared to the three months ended November 30, 2021, is attributable to the factors discussed above. 
+
+Liquidity and Capital Resources 
+
+As of November 30, 2022, the Company had 180,646
+in cash on hand. 
+
+During the three months ended November 30, 2022, the
+Company had a net loss of 470,665). 
+
+Cash flows used in operating activities were 1,182,918)
+for the three months ended November 30, 2022, compared to cash flows used of 69,518) for the three months ended November 30, 2021. The
+substantial increase in cash flows used in operating activities for the three months ended November 30, 2022 was primarily attributable
+to an increase in notes receivable of 1,197,450 from the sale of equipment, which was offset by a decrease in non-cash stock-based compensation
+from 550,000 in 2021 as compared to 75,429 in 2022, an increase in impairment losses from -0- in 2021 to 122,950 in 2022, an increase
+in deferred revenues from -0- in 2021 to 255,673 in 2022, and an increase in depreciation from -0- in 2021 to 59,053 in 2022, as well
+as minor changes in other balance sheet accounts. 
+
+Cash flows generated by investing activities were
+ 571,014 for the three months ended November 30, 2022, compared to cash flows used in investing activities of 1,477,148) for the three
+months ended November 30, 2021. Cash flows from investing activities were mainly impacted by purchases of equipment for 1,477,148 in
+the three months ended November 30, 2021, as compared to sales of 1,558,443 of equipment in the three months ended November 30, 2022,
+which was offset by the contribution of 987,429 of equipment to a joint venture in the three months ended November 30, 2022. 
+
+Cash flows provided by financing activities were
+ 400,000 for the three months ended November 30, 2022, compared to cash flows provided by financing activities of 1,470,000 for the three
+months ended November 30, 2021. The cash flows provided by financing activities in both periods were entirely provided by draws under
+a line of credit with Innovative Digital Investors Emerging Technology, L.P. IDI ), a limited partnership controlled by
+Jonathan Bates, our Chairman, and Raymond Mow, our chief financial officer, and the reduction in cash flows in 2022 was due to lower draws
+in the 2022 period as compared to the 2021 period. 
+
+On October 19, 2022, the Company entered into a new
+Line of Credit Agreement with IDI (the 2022 LOC Agreement ), under which the Company has the right to borrow up to 1,000,000
+to finance the purchase of equipment necessary for the operation of the Company s business, and related working capital. Loans under
+the 2022 LOC Agreement accrue interest at twelve percent (12 per annum, compounded on a 30/360 monthly basis until the loans have been
+repaid in full. The Company has the right to submit draw requests under the 2022 LOC Agreement until April 15, 2023. Each draw request
+is subject to the approval of IDI in its sole discretion. The amount drawn, plus all accrued interest therein, is repayable in full on
+December 1, 2023. As of the date of this Report the amount borrowed under the 2022 LOC Agreement amounted to 400,000. 
+
+22 
+
+The Company believes that cash on hand, amounts
+that may borrow under the 2022 LOC Agreement, and expected receipts from the sale of equipment, and revenue from self-mining will provide
+it with sufficient liquidity to fund its operations for the next 12 months. The Company expects to receive approximately 41,000 monthly
+from the sale of two immersion containers in August 2022, and approximately 31,000 per month from the sale of four immersion containers
+to a joint venture in which the Company will be both lender to and equity investor. Currently, the Company owns 362 miners which it plans
+to use for self-mining. Assuming neither the price of bitcoin nor the difficulty index changes, and based on the Company s expected
+electricity costs, the Company estimates that it could generate approximately 19,500 in monthly gross profit from the miners once they
+are moved to a permanent location in Trinidad. Other sources of revenue that the Company expects to receive include equity distributions
+from the ROC Digital joint venture once it becomes operational in late 2022. The Company does not budget to include any proceeds from
+the exercise of its outstanding warrants because it is not able to predict when or if the market price of its common stock will exceed
+the exercise price of its warrants. 
+
+Nevertheless, while the Company does not need
+additional capital to maintain operations, it will need additional capital to expand its digital asset hosting and mining business, and
+take advantage of opportunities in the marketplace that currently exist due to the recent decline in digital asset prices. Therefore,
+the Company has engaged an investment banker and is pursuing additional capital-raising alternatives, including the potential issuance
+of common stock in a private placement, or the issuance of convertible notes or preferred stock. There is no assurance that the Company
+will be able to raise additional capital or that the terms of any capital raise are not dilutive to current shareholders or carry other
+terms that are unfavorable to the Company and its shareholders. 
+
+Critical Accounting Policies and Estimates 
+
+Our management s discussion and analysis of
+our financial condition and results of operations is based on our financial statements, which have been prepared in accordance with U.S.
+generally accepted accounting principles, or GAAP. The preparation of these financial statements requires us to make estimates
+and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date
+of the financial statements, and the reported amounts of revenue and expenses during the reported period. In accordance with GAAP, we
+base our estimates on historical experience and on various other assumptions that we believe are reasonable under the circumstances. Actual
+results may differ from these estimates under different assumptions or conditions. 
+
+Our significant accounting policies are fully
+described in Note 1 to our financial statements appearing elsewhere in this Quarterly Report, and we believe those accounting policies
+are critical to the process of making significant judgments and estimates in the preparation of our financial statements. 
+
+Off-Balance Sheet Arrangements 
+
+None. 
+
+Item 3. Quantitative And Qualitative Disclosures
+About Market Risk. 
+
+As a smaller reporting company, we are not required
+to provide the information called for by this Item. 
+
+Item 4. Controls and Procedures. 
+
+Evaluation of Disclosure Controls and Procedures. 
+
+Our Principal Executive Officer and Principal Financial Officer, with the
+assistance of management, conducted an evaluation of the effectiveness of our disclosure controls and procedures as defined in Rules 13a-15(e)
+and 15d-15(e) under the Securities Exchange Act of 1934 as of the end of the period covered by this Quarterly Report on Form 10-Q. Based
+on this evaluation, our Principal Executive Officer and Principal Financial Officer concluded that our disclosure controls and procedures
+were effective as of November 30, 2022. These controls are designed to ensure that information required to be disclosed in the reports
+that are filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified
+in the rules and forms of the Securities and Exchange Commission SEC ), and that such information is accumulated and communicated
+to our management, including the Principal Executive Officer and Principal Financial Officer, to allow timely decisions regarding required
+disclosure. 
+
+Changes in Internal Control over Financial Reporting. 
+
+During the first quarter of fiscal 2023, there were no changes in our internal
+control over financial reporting that have materially affected, or are reasonably likely to materially affect, our internal control over
+financial reporting. 
+
+23 
+
+PART II - OTHER INFORMATION 
+
+Item 1. Legal Proceedings. 
+
+The Company may be involved in certain
+legal proceedings that arise from time to time in the ordinary course of its business. Legal expenses associated with any contingency
+are expensed as incurred. The Company s officers and directors are not aware of any threatened or pending litigation to which the
+Company is a party. 
+
+Item 1A. Risk Factors. 
+
+We are a smaller reporting company as defined
+by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. However, please
+carefully consider the information set forth in this Quarterly Report on Form 10-Q and the risk factors discussed in Part I, Item I A.
+of our Annual Report on Form 10-K for the year ended August 31, 2022, which could materially affect our business, financial condition
+or future results. In evaluating our business, you should carefully consider the risk factors discussed in our Annual Report on Form 10-K,
+as updated by our subsequent filings under the Exchange Act. The occurrence of any of the risks discussed in such filings, or other events
+that we do not currently anticipate or that we currently deem immaterial, could harm our business, prospects, financial condition and
+results of operations. In that case, the trading price of our common stock could decline, and you may lose all or part of your investment.
+ Furthermore, we add the following risk factor to the risk factors set forth in prior reports filed
+with the SEC: 
+
+The digital asset exchanges on which cryptocurrencies,
+including bitcoin, trade are relatively new and largely unregulated, and thus may be exposed to fraud and failure. Such failures may result
+in a reduction in the price of bitcoin and other cryptocurrencies and can adversely affect an investment in us. 
+
+Digital asset exchanges on which cryptocurrencies
+trade are relatively new and, in most cases, largely unregulated. Many digital exchanges do not provide the public with significant information
+regarding their ownership structure, management teams, corporate practices or regulatory compliance. As a result, the marketplace may
+lose confidence in, or may experience problems relating to, cryptocurrency exchanges, including prominent exchanges handling a significant
+portion of the volume of digital asset trading. 
+
+For example, in the first half of 2022, each of Celsius
+Network, Voyager Digital Ltd., and Three Arrows Capital declared bankruptcy, resulting in a loss of confidence in participants of the
+digital asset ecosystem and negative publicity surrounding digital assets more broadly. In November 2022, FTX, the third largest digital
+asset exchange by volume at the time, halted customer withdrawals and shortly thereafter, FTX and its subsidiaries filed for bankruptcy. 
+
+In response to these events, the digital asset markets,
+including the market for bitcoin specifically, have experienced extreme price volatility and several other entities in the digital asset
+industry have been, and may continue to be, negatively affected, further undermining confidence in the digital assets markets and in bitcoin.
+These events have also negatively impacted the liquidity of the digital assets markets as certain entities affiliated with FTX engaged
+in significant trading activity. If the liquidity of the digital assets markets continues to be negatively impacted by these events, digital
+asset prices (including the price of bitcoin) may continue to experience significant volatility and confidence in the digital asset markets
+may be further undermined. These events are continuing to develop and it is not possible to predict at this time all of the risks that
+they may pose to us, our service providers or on the digital asset industry as a whole. 
+
+A perceived lack of stability in the digital asset
+exchange market and the closure or temporary shutdown of digital asset exchanges due to business failure, hackers or malware, government-mandated
+regulation, or fraud, may reduce confidence in digital asset networks and result in greater volatility in cryptocurrency values. These
+potential consequences of a digital asset exchange s failure could adversely affect an investment in us. 
+
+24 
+
+Item 2. Unregistered Sales of Equity Securities and Use Of
+Proceeds. 
+
+During the three months ended November
+30, 2022, the Company issued securities in the following private transactions: 
+
+71,429 shares were issued to an officer pursuant to the terms of his employment contract, which entitle the officer to a quarterly bonus payable in shares of common stock. The shares were valued at 31,429, or 0.44 per share based on the value indicated by the Company s recently
+completed Unit Offering. The bonus shares vest on January 15, 2027 if the officer is still employed with us on that date, and are amortized from the date of issuance to January 15, 2027. 
+
+100,000 shares to a third party for investor relations services. The shares were valued at 44,000, or 0.44 per share, based on the value indicated by the Company s recently completed Unit Offering. 
+
+All of the securities were issued pursuant to the exemption from registration
+provided by Section 4(a)(2) of the Securities Act of 1933. 
+
+Item 3. Defaults Upon Senior Securities. 
+
+None. 
+
+Item 4. Mine Safety Disclosures. 
+
+Not applicable. 
+
+Item 5. Other Information. 
+
+None. 
+
+Item 6. Exhibits. 
+
+The exhibits listed on the Exhibit Index below are provided
+as part of this report. 
+
+Exhibit No. 
+ 
+ Description 
+
+31.1 
+ 
+ Certification of principal executive officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, as amended 
+ 
+ 31.2 
+ 
+ Certification of principal financial officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, as amended 
+ 
+ 32.1 
+ 
+ Certification of principal executive officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, as amended 
+ 
+ 32.2 
+ 
+ Certification of principal financial officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, as amended 
+ 
+ 101.INS 
+ 
+ Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document) 
+ 
+ 101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ Inline XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+ 
+ 104 
+ 
+ Cover Page Interactive Data File (formatted in IXBRL, and included in exhibit 101). 
+
+Filed herewith. 
+
+25 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+BITMINE IMMERSION TECHNOLOGIES, INC. 
+
+Dated: January 5, 2023 
+ By: 
+ /s/ Jonathan Bates 
+
+Jonathan Bates, Chief Executive Officer 
+ (Principal Executive Officer) 
+
+Dated: January 5, 2023 
+ By: 
+ /s/ Raymond Mow 
+
+Raymond Mow Chief Financial Officer 
+ (Principal Financial and Accounting Officer) 
+
+26 
+
+<EX-31.1>
+ 2
+ bitmine_ex3101.htm
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+
+EXHIBIT 31.1 
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+
+ PURSUANT TO RULES 13a-14(a) AND 15d-14(a) 
+
+ OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+I, Jonathan Bates, certify that: 
+
+1. 
+ I have reviewed this Quarterly Report on Form 10-Q for the fiscal quarter ended November 30, 2022 of Bitmine Immersion Technologies, Inc. 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the registrant and have: 
+
+a. 
+ designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+ disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and; 
+
+5. 
+ I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions); 
+
+a. 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls. 
+
+Dated: January 5, 2023 
+ 
+ /s/ Jonathan Bates 
+
+Jonathan Bates, CEO 
+
+Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ bitmine_ex3102.htm
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER
+
+EXHIBIT 31.2 
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+
+ PURSUANT TO RULES 13a-14(a) AND 15d-14(a) 
+
+ OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+I, Raymond Mow, certify that: 
+
+1. 
+ I have reviewed this Quarterly Report on Form 10-Q for the fiscal quarter ended November 30, 2022 of Bitmine Immersion Technologies, Inc. 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the registrant and have: 
+
+a. 
+ designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+ disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and; 
+
+5. 
+ I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions); 
+
+a. 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls. 
+
+Dated: January 5, 2023 
+ 
+ /s/ Raymond Mow 
+
+Chief Financial Officer 
+ (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ bitmine_ex3201.htm
+ CERTIFICATION
+
+EXHIBIT 32.1 
+
+CERTIFICATION 
+
+ PURSUANT TO 18 U.S.C. SECTION 1350 AS
+ADOPTED 
+
+ PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+In connection with the Quarterly Report
+on Form 10-Q of Bitmine Immersion Technologies, Inc. (the Company for the fiscal quarter ended November 30, 2022 as filed
+with the Securities and Exchange Commission (the Report ), I, Jonathan Bates, Chief Executive Officer, certify, pursuant
+to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge: 
+
+1. The Report fully complies with the requirements
+of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. The information contained in the Report
+fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+This certification accompanies this Quarterly
+Report on Form 10-Q pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by such Act,
+be deemed filed by the Company for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ).
+Such certification will not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, or
+the Exchange Act, except to the extent that the Company specifically incorporates it by reference. 
+
+Dated: January 5, 2023 
+ 
+ /s/ Jonathan Bates 
+
+Jonathan Bates 
+
+Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ bitmine_ex3202.htm
+ CERTIFICATION
+
+EXHIBIT 32.2 
+
+CERTIFICATION 
+
+ PURSUANT TO 18 U.S.C. SECTION 1350 AS
+ADOPTED 
+
+ PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+In connection with the Quarterly Report
+on Form 10-Q of Bitmine Immersion Technologies, Inc. (the Company for the fiscal quarter ended November 30, 2022 as filed
+with the Securities and Exchange Commission (the Report ), I, Raymond Mow, Chief Financial Officer, certify, pursuant to
+18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge: 
+
+1. The Report fully complies with the requirements
+of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. The information contained in the Report
+fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+This certification accompanies this Quarterly
+Report on Form 10-Q pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by such Act,
+be deemed filed by the Company for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ).
+Such certification will not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, or
+the Exchange Act, except to the extent that the Company specifically incorporates it by reference. 
+
+Dated: January 5, 2023 
+ 
+ /s/ Raymond Mow 
+
+Raymond Mow 
+
+Chief Financial Officer 
+ (Principal Financial and Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ none-20221130.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ none-20221130_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ none-20221130_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ none-20221130_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+
