@@ -6,7 +6,7 @@ As AI continues to gain popularity, U.S. firms increasingly adopt AI technologie
 
 However, these opportunities come with inherent risks. In this project, we try to develop methods to efficiently improve the process of analysing corporate AI risk exposure by examining the annual financial reports of these firms. These reports provide insights from firm executives on potential risk factors affecting their business.
 
-Tech Stack: NLP, BERT, Python, Pandas, Numpy
+Tech Stack: NLP, BERT, Python, Pandas, Numpy, NLTK (punkt)
 
 [Literature Review Link](https://github.com/rxdhikx/AI-Risk_Classification-From-Financial-Documents/blob/main/Literature_Review.md)
 
