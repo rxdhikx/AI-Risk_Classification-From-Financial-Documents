@@ -11,3 +11,10 @@ Tech Stack: NLP, BERT, Python, Pandas, Numpy, NLTK (punkt)
 [Literature Review Link](https://github.com/rxdhikx/AI-Risk_Classification-From-Financial-Documents/blob/main/Literature_Review.md)
 
 Note: This is an ongoing research project estimated to be complete by mid August 2024. Stay tuned!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+## About the files:
+
+test - folder containing test financial reports among which 2 are related to AI
+
+extracting_risk_factors.py - code to extract the relevant content from files (risk factor section)
