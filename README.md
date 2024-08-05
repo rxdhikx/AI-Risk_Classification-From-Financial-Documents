@@ -16,7 +16,7 @@ Note: This is an ongoing research project estimated to be complete by mid August
 
 ## Dataset:
 
-The concerned dataset consists of about 4 GB of dataset samples collected from the Software Repository for Accounting and Finance from US EDGAR, which has financial reports from US companies published each quarter from 1993-2003 (44GB)
+The concerned dataset consists of about 4 GB of dataset samples collected from the Software Repository for Accounting and Finance from US EDGAR, which has financial reports from US companies published each quarter from 1993-2023 (44GB)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ## About the files in this repo:
