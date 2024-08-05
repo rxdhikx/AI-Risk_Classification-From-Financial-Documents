@@ -25,4 +25,6 @@ test - folder containing test financial reports among which 2 are related to AI
 
 extracting_risk_factors.py - code to extract the relevant content from files (risk factor section)
 
+word_list_AI.py - contains the keywords related to AI 
+
 Literature_Review - literature review of some relevant papers on risk factor extraction and categorization
