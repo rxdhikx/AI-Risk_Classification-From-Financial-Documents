@@ -27,6 +27,8 @@ extracting_risk_factors.py - code to extract the relevant content from files (ri
 
 read_files.ipynb - Analysis of extracted content 
 
+uncleaned_test.ipynb - this file shows us the discrepancies of formatting in some files, which affects the extraction if data is not properly cleaned
+
 word_list_AI.py - contains the keywords related to AI 
 
 Literature_Review - literature review of some relevant papers on risk factor extraction and categorization
