@@ -18,12 +18,14 @@ Note: This is an ongoing research project estimated to be complete by mid August
 
 The concerned dataset consists of about 4 GB of dataset samples collected from the Software Repository for Accounting and Finance from US EDGAR, which has financial reports from US companies published each quarter from 1993-2003 (44GB)
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------
 ## About the files in this repo:
 
 test - folder containing test financial reports among which 2 are related to AI
 
 extracting_risk_factors.py - code to extract the relevant content from files (risk factor section)
+
+read_files.ipynb - Analysis of extracted content 
 
 word_list_AI.py - contains the keywords related to AI 
 
