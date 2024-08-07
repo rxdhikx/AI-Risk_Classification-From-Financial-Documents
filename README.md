@@ -8,6 +8,9 @@ However, these opportunities come with inherent risks. In this project, we try t
 
 Tech Stack: NLP, BERT, Python, Pandas, Numpy, NLTK (punkt)
 
+![Ai RISK Factors Classification from financial reports (1)](https://github.com/user-attachments/assets/d7785c73-9347-413c-9511-d18858508e8f)
+
+
 [Literature Review Link](https://github.com/rxdhikx/AI-Risk_Classification-From-Financial-Documents/blob/main/Literature_Review.md)
 
 Note: This is an ongoing research project estimated to be complete by mid August 2024. Stay tuned!
