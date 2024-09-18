@@ -36,6 +36,6 @@ word_list_AI.py - contains the keywords related to AI
 
 Literature_Review - literature review of some relevant papers on risk factor extraction and categorization
 
-bert_ai.ipynb - BERT code used on sample code
+bert_ai.ipynb - BERT code used on a sample 
 
 bert_on_large_input_dataset.ipynb - BERT code for massive datasets, with edge cases handled 
